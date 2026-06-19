@@ -1,0 +1,25 @@
+* [33mcommit 341518102464a57267ceb54f58d6918a34145f69[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+[31m|[m Author: Ian <ianmarttinez.23@gmail.com>
+[31m|[m Date:   Thu Jun 18 12:57:27 2026 +0200
+[31m|[m 
+[31m|[m     Se aáde el .gitignore
+[31m|[m 
+* [33mcommit 5804b8f201b8f5682804bb5a119d6b24e5b32bb7[m
+[31m|[m Author: Ian <ianmarttinez.23@gmail.com>
+[31m|[m Date:   Thu Jun 18 12:44:21 2026 +0200
+[31m|[m 
+[31m|[m     Se actualiza el texto de los prints
+[31m|[m     git log
+[31m|[m     clear
+[31m|[m 
+* [33mcommit 9efa25fcdeb91a82d2721584ab6d747a1fcae0a3[m
+[31m|[m Author: Ian <ianmarttinez.23@gmail.com>
+[31m|[m Date:   Thu Jun 18 12:37:02 2026 +0200
+[31m|[m 
+[31m|[m     Este es mi segundo commit
+[31m|[m 
+* [33mcommit 247f584366b0bda745298220b21abff5de862cf1[m
+  Author: Ian <ianmarttinez.23@gmail.com>
+  Date:   Wed Jun 17 16:28:41 2026 +0200
+  
+      Este es mi primer commit
